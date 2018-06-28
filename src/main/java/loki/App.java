@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Goodbye World!" );
         System.out.println( "Goodbye All!" );
+        nonsense
         // insert bad code here
     }
 }
